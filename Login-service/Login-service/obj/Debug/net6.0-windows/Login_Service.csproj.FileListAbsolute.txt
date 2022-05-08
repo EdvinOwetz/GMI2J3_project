@@ -1,0 +1,166 @@
+C:\Skola\GMI24H(Algoritmer och mjukvarudesign)\Labar\Lab3\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service.csproj.AssemblyReference.cache
+C:\Skola\GMI24H(Algoritmer och mjukvarudesign)\Labar\Lab3\Login-service\Login-service\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Skola\GMI24H(Algoritmer och mjukvarudesign)\Labar\Lab3\Login-service\Login-service\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Skola\GMI24H(Algoritmer och mjukvarudesign)\Labar\Lab3\Login-service\Login-service\obj\Debug\net6.0-windows\Views\AccountManagementView.g.cs
+C:\Skola\GMI24H(Algoritmer och mjukvarudesign)\Labar\Lab3\Login-service\Login-service\obj\Debug\net6.0-windows\Views\BackgroundView.g.cs
+C:\Skola\GMI24H(Algoritmer och mjukvarudesign)\Labar\Lab3\Login-service\Login-service\obj\Debug\net6.0-windows\Views\CreateAccountView.g.cs
+C:\Skola\GMI24H(Algoritmer och mjukvarudesign)\Labar\Lab3\Login-service\Login-service\obj\Debug\net6.0-windows\Views\LoginView.g.cs
+C:\Skola\GMI24H(Algoritmer och mjukvarudesign)\Labar\Lab3\Login-service\Login-service\obj\Debug\net6.0-windows\App.g.cs
+C:\Skola\GMI24H(Algoritmer och mjukvarudesign)\Labar\Lab3\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service_MarkupCompile.cache
+C:\Skola\GMI24H(Algoritmer och mjukvarudesign)\Labar\Lab3\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service_MarkupCompile.lref
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Login_Service.exe
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Login_Service.deps.json
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Login_Service.runtimeconfig.json
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Login_Service.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Login_Service.pdb
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service.csproj.AssemblyReference.cache
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\Views\AccountManagementView.g.cs
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\Views\CreateAccountView.g.cs
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\Views\LoginView.g.cs
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\App.g.cs
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service_MarkupCompile.cache
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service_MarkupCompile.lref
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\App.baml
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\Views\AccountManagementView.baml
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\Views\CreateAccountView.baml
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\Views\LoginView.baml
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service.g.resources
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service.AssemblyInfoInputs.cache
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service.AssemblyInfo.cs
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service.csproj.CoreCompileInputs.cache
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\refint\Login_Service.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service.pdb
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service.genruntimeconfig.cache
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\ref\Login_Service.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service.csproj.CopyComplete
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\Styles\Common.baml
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Login_Service.dll.config
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Dapper.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.AspNet.Identity.Core.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Identity.Core.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Login_DataManager.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Login_Domain.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Login_Domain.pdb
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Login_DataManager.pdb
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\PasswordBoxMVVM.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\Login-service\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Login_Service.exe
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Login_Service.dll.config
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Login_Service.deps.json
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Login_Service.runtimeconfig.json
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Login_Service.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\ref\Login_Service.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Login_Service.pdb
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Dapper.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\PasswordBoxMVVM.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Login_DataManager.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Login_Domain.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Login_Domain.pdb
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\bin\Debug\net6.0-windows\Login_DataManager.pdb
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service.csproj.AssemblyReference.cache
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\Styles\Common.baml
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\Views\AccountManagementView.g.cs
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\Views\CreateAccountView.g.cs
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\Views\LoginView.g.cs
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service_MarkupCompile.cache
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service_MarkupCompile.lref
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\App.baml
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\Views\AccountManagementView.baml
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\Views\CreateAccountView.baml
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\Views\LoginView.baml
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service.g.resources
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service.AssemblyInfoInputs.cache
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service.AssemblyInfo.cs
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service.csproj.CoreCompileInputs.cache
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service.csproj.CopyComplete
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\ref\Login_Service.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service.pdb
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login-service\obj\Debug\net6.0-windows\Login_Service.genruntimeconfig.cache

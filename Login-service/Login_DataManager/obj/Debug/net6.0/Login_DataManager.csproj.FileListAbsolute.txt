@@ -1,0 +1,15 @@
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login_DataManager\bin\Debug\net6.0\Login_DataManager.deps.json
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login_DataManager\bin\Debug\net6.0\Login_DataManager.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login_DataManager\bin\Debug\net6.0\ref\Login_DataManager.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login_DataManager\bin\Debug\net6.0\Login_DataManager.pdb
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login_DataManager\bin\Debug\net6.0\Login_Domain.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login_DataManager\bin\Debug\net6.0\Login_Domain.pdb
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login_DataManager\obj\Debug\net6.0\Login_DataManager.csproj.AssemblyReference.cache
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login_DataManager\obj\Debug\net6.0\Login_DataManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login_DataManager\obj\Debug\net6.0\Login_DataManager.AssemblyInfoInputs.cache
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login_DataManager\obj\Debug\net6.0\Login_DataManager.AssemblyInfo.cs
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login_DataManager\obj\Debug\net6.0\Login_DataManager.csproj.CoreCompileInputs.cache
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login_DataManager\obj\Debug\net6.0\Login_DataManager.csproj.CopyComplete
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login_DataManager\obj\Debug\net6.0\Login_DataManager.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login_DataManager\obj\Debug\net6.0\ref\Login_DataManager.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\Login_DataManager\obj\Debug\net6.0\Login_DataManager.pdb

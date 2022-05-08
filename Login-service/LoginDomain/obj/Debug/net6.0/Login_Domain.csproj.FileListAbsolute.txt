@@ -1,0 +1,24 @@
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\LoginDomain\bin\Debug\net6.0\Login_Domain.deps.json
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\LoginDomain\bin\Debug\net6.0\Login_Domain.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\LoginDomain\bin\Debug\net6.0\Login_Domain.pdb
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\LoginDomain\obj\Debug\net6.0\Login_Domain.csproj.AssemblyReference.cache
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\LoginDomain\obj\Debug\net6.0\Login_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\LoginDomain\obj\Debug\net6.0\Login_Domain.AssemblyInfoInputs.cache
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\LoginDomain\obj\Debug\net6.0\Login_Domain.AssemblyInfo.cs
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\LoginDomain\obj\Debug\net6.0\Login_Domain.csproj.CoreCompileInputs.cache
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\LoginDomain\obj\Debug\net6.0\Login_Domain.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\LoginDomain\obj\Debug\net6.0\refint\Login_Domain.dll
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\LoginDomain\obj\Debug\net6.0\Login_Domain.pdb
+C:\Skola\GMI2J3(Mjukvarutest)\Grupparbete\Login-service\LoginDomain\obj\Debug\net6.0\ref\Login_Domain.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\LoginDomain\bin\Debug\net6.0\Login_Domain.deps.json
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\LoginDomain\bin\Debug\net6.0\Login_Domain.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\LoginDomain\bin\Debug\net6.0\ref\Login_Domain.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\LoginDomain\bin\Debug\net6.0\Login_Domain.pdb
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\LoginDomain\obj\Debug\net6.0\Login_Domain.csproj.AssemblyReference.cache
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\LoginDomain\obj\Debug\net6.0\Login_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\LoginDomain\obj\Debug\net6.0\Login_Domain.AssemblyInfoInputs.cache
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\LoginDomain\obj\Debug\net6.0\Login_Domain.AssemblyInfo.cs
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\LoginDomain\obj\Debug\net6.0\Login_Domain.csproj.CoreCompileInputs.cache
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\LoginDomain\obj\Debug\net6.0\Login_Domain.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\LoginDomain\obj\Debug\net6.0\ref\Login_Domain.dll
+C:\Users\Phili\OneDrive\Högskolan\Årskurs 2\Mjukvarutestning 1 - GMI2J3\Project\GMI2J3_project\Login-service\LoginDomain\obj\Debug\net6.0\Login_Domain.pdb

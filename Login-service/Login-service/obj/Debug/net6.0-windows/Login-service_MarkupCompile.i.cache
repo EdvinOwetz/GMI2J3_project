@@ -1,0 +1,20 @@
+﻿Login-service
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Skola\GMI24H(Algoritmer och mjukvarudesign)\Labar\Lab3\Login-service\Login-service\obj\Debug\net6.0-windows\
+Login_service
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Skola\GMI24H(Algoritmer och mjukvarudesign)\Labar\Lab3\Login-service\Login-service\App.xaml
+51525026604
+
+9409909776
+196691249798
+MainWindow.xaml;Views\AccountManagementView.xaml;Views\BackgroundView.xaml;Views\CreateAccountView.xaml;Views\LoginView.xaml;
+
+True
+
