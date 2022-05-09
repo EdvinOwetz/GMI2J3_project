@@ -13,6 +13,7 @@ namespace Login_service.ViewModels
     // oogas
     public class LoginViewModel : ViewModelBase
     {
+        // ooga
         private string _username;
         public string Username
         {
