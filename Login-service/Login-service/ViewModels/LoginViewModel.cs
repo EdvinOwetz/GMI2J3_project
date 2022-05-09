@@ -10,6 +10,7 @@ using System.Windows.Input;
 
 namespace Login_service.ViewModels
 {
+    // oogas
     public class LoginViewModel : ViewModelBase
     {
         private string _username;
