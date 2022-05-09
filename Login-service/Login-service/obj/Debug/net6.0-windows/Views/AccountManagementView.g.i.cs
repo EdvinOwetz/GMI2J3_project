@@ -56,7 +56,7 @@ namespace Login_service.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Login_Service;component/views/accountmanagementview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Login_Service;V1.0.0.0;component/views/accountmanagementview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\AccountManagementView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
